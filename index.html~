@@ -1,10 +1,20 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>My Website</title>
+	<link rel="stylesheet" href="main.css">
+	<div class="topnav">
+		<a href="/index.html">Home</a>
+		<a href="/TWOWSimulator/index.html">TWOWSimulator</a>
+		<a href="/bots/index.html">Bots</a>
+		<a href="/about/index.html">About</a>
+	</div>
 </head>
-<body style="background-color: powderblue;">
-<h1>A test site, for now.</h1>
-<p>Check back in later when I learn HTML, lol</p>
+<body>
+	<h1>Welcome!</h1>
+	<p>
+		Hey, I'm anon! I like programming and TWOW and other stuff. Look up top and see what interests ya! <br> <br>
+		I definitely need to work on my web design skills... <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
+		Here's a question: What do you do with an entire main page if you've got nothing to put there?
+	</p>
 </body>
 </html>

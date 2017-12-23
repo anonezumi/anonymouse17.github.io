@@ -3,8 +3,8 @@
 <head>
 	<link rel="stylesheet" href="../main.css">
 	<div class="topnav">
-		<a class="active" href="/index.html">Home</a>
-		<a href="/TWOWSimulator/index.html">TWOWSimulator</a>
+		<a href="/index.html">Home</a>
+		<a class="active" href="/TWOWSimulator/index.html">TWOWSimulator</a>
 		<a href="/bots/index.html">Bots</a>
 		<a href="/about/index.html">About</a>
 	</div>

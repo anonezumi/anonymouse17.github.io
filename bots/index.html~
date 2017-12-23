@@ -5,7 +5,7 @@
 	<div class="topnav">
 		<a href="/index.html">Home</a>
 		<a href="/TWOWSimulator/index.html">TWOWSimulator</a>
-		<a href="/bots/index.html">Bots</a>
+		<a class="active" href="/bots/index.html">Bots</a>
 		<a href="/about/index.html">About</a>
 	</div>
 </head>

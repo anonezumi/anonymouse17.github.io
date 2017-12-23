@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="../main.css">
+	<div class="topnav">
+		<a href="/index.html">Home</a>
+		<a href="/TWOWSimulator/index.html">TWOWSimulator</a>
+		<a href="/bots/index.html">Bots</a>
+		<a class="active" href="/about/index.html">About</a>
+	</div>
+</head>
+<body>
+	<h1>Welcome!</h1>
+	<p>Here's my main current project!</p>
+	<a href="https://github.com/anonymouse17/TWOWSimulator">
+		<h2>TWOWSimulator</h2>
+	</a>
+</body>
+</html>

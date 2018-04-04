@@ -1,5 +1,5 @@
-var dirs = ["/", "/projects/", "/about/"];
-var names = ["Home", "My Projects", "About Me"];
+var dirs = ["/", "/projects/", "/comfortclass/", "/about/"];
+var names = ["Home", "My Projects", "ComfortClass", "About Me"];
 var navbar = document.getElementById("navbar");
 var navbarHTML = navbar.innerHTML;
 for(var i = 0; i < dirs.length; i++)
